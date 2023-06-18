@@ -1,0 +1,40 @@
+.title-page{
+    font-weight: bold;
+    color: #821212;
+    text-align: center;
+    margin-top: 5rem;
+}
+.intro-page{
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+}
+.container-grid{
+    margin-bottom: 1rem;
+}
+.button-grid{
+    text-align: center;
+    margin: 2rem auto;
+    width: 100%;
+    display: block;
+}
+.btn-confirm,.btn-confirm:hover{
+    margin-right:.5rem;
+    color: #fff;
+    border-color: #821212;
+    background: #821212;
+}
+.btn-confirm span{
+    padding-left:.5rem;
+}
+.btn-reset,.btn-reset:hover{
+    color: #fff;
+    border-color: #000;
+    background: #000;
+}
+.btn-reset span{
+    padding-left:.5rem;
+}
+.btn-back{
+    margin-bottom: 1rem;
+}
